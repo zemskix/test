@@ -210,6 +210,7 @@
 				TargetAttributes = {
 					3386893D1F057EF800E9D10B = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = QYDK3ZKPC8;
 						ProvisioningStyle = Automatic;
 					};
 					338689591F057EF900E9D10B = {
@@ -430,6 +431,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = QYDK3ZKPC8;
 				INFOPLIST_FILE = twdel/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = zemskix.com.twdel;
@@ -441,6 +443,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = QYDK3ZKPC8;
 				INFOPLIST_FILE = twdel/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = zemskix.com.twdel;
